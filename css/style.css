@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Deadpool';
+    src: url('/fonts/deadpool_font.otf');
+}
+
+.navbar {
+  border-radius: 0px;
+  padding: 5px;
+}
+
+.jumbotron {
+  margin-top: -20px;
+  background-image: url(http://images6.alphacoders.com/406/406621.jpg);
+  background-position: 0% 25%;
+  padding: 20px;
+  border-bottom: 2px solid #000000;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6);
+}
+
+.jumbotron h1 {
+  color: #b90202;
+  text-shadow: -2px -1px black, -1px 2px black, 2px -1px black, 1px -2px black;
+  border-color: #000000;
+  font-family: 'Deadpool';
+}
+
+.btn {
+  background-color: #b90202;
+  border-color: #000000;
+}
+
+.btn:hover {
+  background-color: #7a0606;
+  border-color: #000000;
+}
