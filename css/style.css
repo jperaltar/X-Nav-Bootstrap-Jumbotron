@@ -33,3 +33,16 @@
   background-color: #7a0606;
   border-color: #000000;
 }
+<<<<<<< HEAD
+=======
+
+.btn:focus{
+  background-color: #140000;
+  border-color: #000000;
+}
+
+.btn:active {
+  background-color: #140000;
+  border-color: #000000;
+}
+>>>>>>> gh-pages
