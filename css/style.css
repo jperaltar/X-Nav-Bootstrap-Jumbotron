@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Deadpool';
-    src: url('/fonts/deadpool_font.otf');
+    src: url('../fonts/deadpool_font.otf');
 }
 
 .navbar {
